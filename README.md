@@ -12,11 +12,11 @@ I enjoy turning ideas into clean, performant user experiences.
 <tr>
 <td width="60%">
 
-- 🌱 Currently a **Fellow at Dev3Pack**  
-- 💻 I build full-stack applications  
-- 🚀 Passionate about real-world products & tools  
-- 🤝 Open to **freelancing & collaboration**  
-- 📫 Reach me at **abhishekbandaswamai@gmail.com**
+<h3> - 🌱 Currently a **Fellow at Dev3Pack**  </h3>
+<h3> - 💻 I build full-stack applications  </h3>
+<h3>- 🚀 Passionate about real-world products & tools  </h3>
+<h3>- 🤝 Open to **freelancing & collaboration**  </h3>
+<h3>- 📫 Reach me at **abhishekbandaswamai@gmail.com**</h3>
 
 </td>
 <td width="40%" align="center">
