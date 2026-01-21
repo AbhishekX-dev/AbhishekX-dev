@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Full-Stack Developer building scalable web applications.  
 I enjoy turning ideas into clean, performant user experiences.
- &#127470;&#127475</h3>
+ </h3>
 
 
 
