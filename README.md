@@ -12,7 +12,8 @@ I enjoy turning ideas into clean, performant user experiences.
 <tr>
 <td width="60%">
 
-<h3> - 🌱 Currently a Fellow at Dev3Pack  </h3>
+<h3> - 🌱 Prev  Fellow at Dev3Pack  </h3>
+<h3> - Exploring Agentic AI and backend AI integration </h3>
 <h3> - 💻 I build full-stack applications  </h3>
 <h3>- 🚀 Passionate about real-world products & tools  </h3>
 <h3>- 🤝 Open to freelancing & collaboration  </h3>
@@ -35,6 +36,19 @@ I enjoy turning ideas into clean, performant user experiences.
 ---
 
 ## 💻 Tech Stack
+
+### Agentic AI & AI Engineering
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Enhanced-blue?style=flat&logo=semanticweb&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-purple?style=flat&logo=protocolsio&logoColor=white)
+![AI Workflows](https://img.shields.io/badge/AI_Workflows-Automation-orange?style=flat&logo=n8n&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-REST%20%26%20GraphQL-green?style=flat&logo=fastapi&logoColor=white)
+![CLI Tools](https://img.shields.io/badge/CLI_Tools-Terminal-black?style=flat&logo=gnubash&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-Embeddings-red?style=flat&logo=pinecone&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-GPT%20%7C%20Gemini%20%7C%20Claude-412991?style=flat&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Agentic_Flows-yellow?style=flat&logo=zapier&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-AI_Reasoning-pink?style=flat)
+![Multi Agent Systems](https://img.shields.io/badge/Multi_Agent-Systems-teal?style=flat&logo=apachekafka&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)
@@ -63,12 +77,6 @@ I enjoy turning ideas into clean, performant user experiences.
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)
 
----
-
-## 📌 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekX-dev&layout=compact&theme=dark&hide_border=true)
-
----
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
